@@ -11,5 +11,8 @@ namespace GitLearning
         public int a = 5;
         public int c = 3;
         public int b = 10;
+
+        public int d = 20;
+        public int e = 30;
     }
 }
