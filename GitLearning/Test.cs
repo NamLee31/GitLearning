@@ -9,5 +9,6 @@ namespace GitLearning
     internal class Test
     {
         public int a = 5;
+        public int c = 3;
     }
 }
