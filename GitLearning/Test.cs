@@ -10,5 +10,6 @@ namespace GitLearning
     {
         public int a = 5;
         public int c = 3;
+        public int b = 10;
     }
 }
