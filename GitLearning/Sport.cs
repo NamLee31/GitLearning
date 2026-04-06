@@ -16,6 +16,7 @@ namespace GitLearning
             BallShape = "round";
             Players = 11;
             Console.WriteLine(BallShape);
+            Console.WriteLine(Players);
         }
     }
 
