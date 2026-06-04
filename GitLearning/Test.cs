@@ -18,5 +18,7 @@ namespace GitLearning
         public int g = 50;
 
         public int m = 100;
+
+        string ars = "Arsenal";
     }
 }
